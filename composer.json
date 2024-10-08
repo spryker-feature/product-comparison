@@ -1,0 +1,16 @@
+{
+    "name": "spryker-feature/product-comparison",
+    "description": "Product Comparison [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.1"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202407.x-dev"
+        }
+    }
+}
