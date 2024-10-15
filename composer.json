@@ -6,7 +6,9 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.1"
+        "php": ">=8.1",
+        "spryker-shop/product-comparison-page": "^1.0.0",
+        "spryker-shop/product-comparison-widget": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
